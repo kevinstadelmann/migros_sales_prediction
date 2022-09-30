@@ -1,2 +1,3 @@
 *.csv
 *.pic
+data_raw/.gitkeep
